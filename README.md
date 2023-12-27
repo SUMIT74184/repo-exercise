@@ -14,3 +14,5 @@ adding the conflicts.....
 <br>
 this is the main file for conflict feature
 
+<br>
+<p>NOW MAKING SOME GENERATION CHANGES</p>
